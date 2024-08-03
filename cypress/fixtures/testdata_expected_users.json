@@ -1,0 +1,35 @@
+{
+    "total": 12,
+    "user": [
+        {
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth"
+        },
+        {
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver"
+        },
+        {
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong"
+        },
+        {
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt"
+        },
+        {
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris"
+        },
+        {
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos"
+        }
+    ]
+}

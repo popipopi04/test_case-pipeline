@@ -1,0 +1,4 @@
+{
+  "user_details": "/api/users",
+  "add_user": "/api/users"
+}

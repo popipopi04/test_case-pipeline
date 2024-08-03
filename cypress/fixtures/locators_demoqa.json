@@ -1,0 +1,14 @@
+{
+    "nuser_btn": "#newUser",
+    "fname": "#firstname",
+    "lname": "#lastname",
+    "username": "#userName",
+    "password": "#password",
+    "not_robort": "div[class='recaptcha-checkbox-border']",
+    "Register_btn": "#register",
+    "login_btn": "#login",
+    "user_label": "div > [class='text-right col-md-5 col-sm-12'] > label[id='userName-label']",
+    "user_value": "div > [class='text-right col-md-5 col-sm-12'] > label[id='userName-value']",
+    "logout_btn": "div > [class='text-right col-md-5 col-sm-12'] > button[id='submit']",
+    "user_form": "[id='books-wrapper']"
+}
